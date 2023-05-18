@@ -1,7 +1,11 @@
 # PDF's FILES #
 ######################
+README.md
 *.pdf
+config.php
 
 # GENERAL FILES #
 ######################
 /system/config.php
+system/config.php
+.system/config.php

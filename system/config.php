@@ -7,7 +7,7 @@ if($_SERVER['HTTP_HOST']=='localhost'){
     define('DB_NAME','db_uspgcoders');
     define('BASE_URL','http://localhost/stw_proyecto_adn/');
 }else{
-    define('BASE_URL','url');
+    define('BASE_URL','url_base');
     define('HOST', 'localhost');
     define('USER','username');
     define('PASSWORD','password');
