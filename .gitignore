@@ -1,3 +1,7 @@
 # PDF's FILES #
 ######################
 *.pdf
+
+# GENERAL FILES #
+######################
+/system/config.php
