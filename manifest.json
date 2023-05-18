@@ -1,0 +1,24 @@
+{
+    "name": "ADUANA - YaPasenosInge",
+    "short_name": "ADUANA",
+    "description": "Un servicio de YaPasenosInge",
+    "categories": "Servicios Aduaneros",
+    "icons": [
+        {
+            "src": "https://www.yapasenosinge.syswebgroup.online/assets/imgs/placeholder.ico",
+            "type": "image/ico",
+            "sizes":"256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://www.yapasenosinge.syswebgroup.online/assets/imgs/placeholder.svg",
+            "type": "image/ico",
+            "sizes":"150x150",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "es-ES",
+    "start_url": "/stw_proyecto_adn/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
